@@ -1,0 +1,29 @@
+{
+    "application.shellEnvironmentResolutionTimeout": 100,
+    "explorer.confirmDelete": false,
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Aura Dark",
+    "workbench.iconTheme": "material-icon-theme",
+    "apc.listRow": {
+      "height": 24,
+      "fontSize": 11
+    },
+    "window.titleBarStyle": "native",
+    "apc.electron": {
+      "titleBarStyle": "hiddenInset",
+      "trafficLightPosition": {
+          "x": 9,
+          "y": 9
+      }
+    },
+    "apc.activityBar": {
+      "position": "bottom",
+      "hideSettings": true,
+      "size": 40
+    },
+    "breadcrumbs.enabled": false,
+    "workbench.editor.enablePreview": false,
+    "vs-kubernetes": {
+        "vscode-kubernetes.minikube-path-mac": "/Users/aaronsteed/.vs-kubernetes/tools/minikube/darwin-arm64/minikube"
+    }
+}
